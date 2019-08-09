@@ -1,0 +1,22 @@
+.pos-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.full-back {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.spin-overlay {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.z-index-1000 {
+  z-index: 1000;
+}
