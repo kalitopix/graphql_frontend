@@ -16,7 +16,7 @@
     "enzyme": "^3.10.0",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.10.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
